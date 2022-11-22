@@ -1,0 +1,15 @@
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\bin\Debug\net6.0\CreditSuisse.exe
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\bin\Debug\net6.0\CreditSuisse.deps.json
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\bin\Debug\net6.0\CreditSuisse.runtimeconfig.json
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\bin\Debug\net6.0\CreditSuisse.dll
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\bin\Debug\net6.0\CreditSuisse.pdb
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.csproj.AssemblyReference.cache
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.AssemblyInfoInputs.cache
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.AssemblyInfo.cs
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.csproj.CoreCompileInputs.cache
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.dll
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\refint\CreditSuisse.dll
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.pdb
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\CreditSuisse.genruntimeconfig.cache
+C:\Users\Margy\source\repos\Teste_GFT_Credit_Suisse\CreditSuisse\CreditSuisse\obj\Debug\net6.0\ref\CreditSuisse.dll
